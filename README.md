@@ -1,6 +1,6 @@
 # ✨ Fintech Solutions Platform ✨
 
-A modern, interactive fintech platform built with Next.js 14.2, featuring a responsive design system and fluid animations. Our platform delivers an engaging user experience through cutting-edge frontend technologies while providing robust financial technology solutions.
+A modern, interactive fintech platform built with Next.js 14.2, featuring a responsive design system and fluid animations.
 
 ---
 
