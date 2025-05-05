@@ -34,7 +34,7 @@ export const metadata = {
   title: 'finTech',
   description: 'Empowering the Next Generation of Financial Services',
   icons:{
-    icon:['/favicon.ico?v=4'],
+    icon:['/'],
     apple:['/apple-touch-icon.png?v=4'],
     shortcut:['/apple-touch-icon.png']
 

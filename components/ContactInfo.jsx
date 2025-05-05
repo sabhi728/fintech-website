@@ -58,7 +58,7 @@ const ContactInfo = () => {
                   />
                 </svg>
                 <h3 className="mb-2.5">Email Us</h3>
-                <Link href="mailto:contact@fin.tech"> contact@fin.tech </Link>
+                <Link href="mailto:contact@fin"> contact@fin </Link>
               </div>
             </motion.div>
 
@@ -93,7 +93,7 @@ const ContactInfo = () => {
                   />
                 </svg>
                 <h3 className="mb-2.5">Call Us</h3>
-                <Link href="tel:+391(0)355684593">+91 6375240605</Link>
+                <Link href="tel:+391(0)355684593">+91 </Link>
               </div>
             </motion.div>
           </div>

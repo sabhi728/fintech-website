@@ -841,7 +841,7 @@ export const BankingServicesData = [
 export const teamData = [
   {
     id: 1,
-    name: 'Yuvraj Agawani',
+    name: '',
     designation: 'Our Leader',
     fbLink: '#',
     dribbleInLink: '#',
@@ -855,7 +855,7 @@ export const teamData = [
   },
   {
     id: 2,
-    name: 'Ashutosh Roy Choudhary',
+    name: '',
     designation: 'Our Leader',
     fbLink: '#',
     dribbleInLink: '#',
@@ -1008,8 +1008,8 @@ export const FooterData = {
   logoDark: '/images/fint.png',
   footerText: '',
   copyright: `${new Date().getFullYear()}. All Rights Reserved`,
-  email: "hello@fin.tech",
-  phone: "+91 6375240605",
+  email: "hello@fin",
+  phone: "+91 ",
   expolre: [
     {
       id: 1,
