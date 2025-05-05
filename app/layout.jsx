@@ -31,7 +31,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata = {
-  title: 'fin Tech',
+  title: 'finTech',
   description: 'Empowering the Next Generation of Financial Services',
   icons:{
     icon:['/favicon.ico?v=4'],
