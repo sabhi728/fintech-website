@@ -53,8 +53,7 @@ A modern, interactive fintech platform built with Next.js 14.2, featuring a resp
 ### Frontend Technologies
 -   **Framework**: ![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js&logoColor=white) with App Router
 -   **Language**: ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
--   **State Management**: React Context + Hooks
--   **API Integration**: React Query
+
 
 ### Design Implementation
 -   **Styling**: ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) with custom design tokens
@@ -62,25 +61,18 @@ A modern, interactive fintech platform built with Next.js 14.2, featuring a resp
 -   **Advanced Styling**: ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) for complex UI patterns
 -   **Icons**: ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square&logo=font-awesome&logoColor=white) with custom SVG icons
 
-### Development Tools
--   **Code Quality**: ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) with custom rules
--   **Formatting**: ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
--   **Performance**: Sharp for image optimization
--   **Testing**: ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) and ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
 ---
 
 ## 🏁 Getting Started
 
-### Prerequisites
--   Node.js (Latest LTS version recommended)
--   npm or yarn package manager
+
 
 ### Installation
 
 1.  Clone the repository
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/sabhi728/fintech-website
     cd fintech
     ```
 
@@ -107,21 +99,6 @@ A modern, interactive fintech platform built with Next.js 14.2, featuring a resp
 
 ---
 
-## 📁 Project Structure
-
-```
-fintech/
-├── app/                # Next.js app directory
-│   ├── components/     # Shared UI components
-│   ├── hooks/          # Custom React hooks
-│   ├── styles/         # Component styles
-│   └── features/       # Feature-specific components
-├── public/            # Static assets
-├── styles/           # Global styles and themes
-└── package.json      # Project dependencies
-```
-
----
 
 ## 📐 Design System
 
@@ -133,18 +110,3 @@ Our platform implements a comprehensive design system that ensures consistency a
 -   **Components**: Reusable UI components with props API
 -   **Animations**: Standard motion curves and durations
 
----
-
-## 🤝 Contributing
-
-1.  Fork the repository
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
-
-## 📜 License
-
-This project is proprietary software. All rights reserved.
